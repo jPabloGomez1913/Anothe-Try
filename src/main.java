@@ -12,6 +12,18 @@ public class main {
         System.out.println("Ingrese su nombre");
         name=entrada.nextLine();
         System.out.println("su nombre es: "+name);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        System.out.println("yeaaa motherfuck");
     }
     
 }
